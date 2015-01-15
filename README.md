@@ -1,2 +1,6 @@
 # JavaScriptProgrammingQuestions
-Solutions to some programming questions (is it an anagram?, is it a palindrome?, is it a full deck of cards?, etc)
+Solutions to some programming questions:
+ - Is it an anagram?
+ - Is it a palindrome?
+ - Is it a full deck of cards?
+ - etc
