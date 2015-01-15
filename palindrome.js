@@ -1,4 +1,11 @@
-var word = "abhjkhba";
+// Is this word a palindrome?
+//
+// Example:
+// 	var word = "abhjkhba";
+// 	To test pass word to palindrome() function
+// 		-> palindrome(word);
+// 	Prints out to console true if palindrome and false if not a palindrome
+
 
 function palindrome(t) {
 	var ispalin = true;
@@ -9,4 +16,3 @@ function palindrome(t) {
 	}
 	console.log(ispalin);
 }
-palindrome(word);
