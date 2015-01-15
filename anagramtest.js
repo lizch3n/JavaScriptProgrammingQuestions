@@ -1,12 +1,12 @@
-// Are the strings in the first and second arrays palindromes of each other?
+// Are the strings in the first and second arrays anagram of each other?
 //
 // Example: 
 // 	var a = ['abba', 'test', 'as', 'mee'];
 // 	var b = ['baba', 'sets', 'asd', 'eme'];
-// 	Is abba in string 1 a palindrome of baba in string 2?
+// 	Is abba in string 1 a anagram of baba in string 2?
 //	
 // To test pass your arrays to the function anagram() -> anagram(a,b)
-// Prints to console 1 when it is a palindrome and 0 if not a palindrome
+// Prints to console 1 when it is a anagram and 0 if not a anagram
 
 function anagram(a,b) {
 
